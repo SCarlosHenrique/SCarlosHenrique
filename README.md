@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="140" src="https://github.com/user-attachments/assets/b1168c47-5eb9-4c82-b437-0a3d1b843431" />
+
+###
+
 <h3 align="left">Techs</h3>
 
 ###
@@ -36,6 +40,12 @@
 
 ###
 
+<h3 align="left">Stats</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SCarlosHenrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SCarlosHenrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -43,10 +53,10 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/b1168c47-5eb9-4c82-b437-0a3d1b843431"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/SCarlosHenrique/SCarlosHenrique/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SCarlosHenrique/SCarlosHenrique/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SCarlosHenrique/SCarlosHenrique/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SCarlosHenrique/SCarlosHenrique/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
