@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi!👋 My name is Carlos and i'm the from Brazil. I'm a back-end developer.</p>
+<p align="left">Hi!👋 My name is Carlos and i'm from Brazil. I'm a back-end developer.</p>
 
 ###
 
