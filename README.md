@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi!👋 My name is Carlos and i'm from Brazil. I'm a back-end developer.</p>
+<p align="left">Hi!👋 My name is Carlos and I'm from Brazil. I'm a back-end developer.</p>
 
 ###
 
@@ -22,18 +22,18 @@
 
 ###
 
-<h3 align="left">Social midia</h3>
+<h3 align="left">Social Media</h3>
 
 ###
 
 <div align="left">
-  <a href="sulrakk" target="_blank">
+  <a href="https://discord.com/users/sulrakk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/4/#inbox" target="_blank">
+  <a href="mailto:devcarlos.developer@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="devcarlos.developer@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/carlosdeveloper" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
